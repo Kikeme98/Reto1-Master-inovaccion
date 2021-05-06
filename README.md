@@ -28,5 +28,6 @@ Las principales ventajas que nos representa el trabajar con la nube son las sigu
 ## Modelos
 Existen gran variedad de modelos de servicios en la nube, cada modelo trabaja con diferentes niveles de responsabilidad compartida
 
-[[ https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas-expanded.png#lightbox | alt = "Modelos de servicios en la nube" ]]
+![Modelos de servicios en la nube] (https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas-expanded.png)
+
 
